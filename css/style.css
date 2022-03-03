@@ -843,7 +843,7 @@ button {
   float: left;
 } */
 
-a .verify-me {
+.verify-me {
   position: relative;
   overflow: hidden;
   display: inline-flex;
