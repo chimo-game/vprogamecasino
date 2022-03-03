@@ -711,11 +711,11 @@ button {
   transition-duration: 0.35s;
 }
 
-.verify-me_btn {
+/* .playnow_bt {
   background: #5d2fdf;
 }
 
-.verify-me_btn:hover {
+.playnow_bt:hover {
   background: #5526c5;
 }
 
@@ -730,7 +730,7 @@ button {
   border-radius: 30px;
   margin-top: 30px;
   border: 3px solid #5d2fdf;
-}
+} */
 
 .buynow_bt a:hover {
   color: #ffffff;
