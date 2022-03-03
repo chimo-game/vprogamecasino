@@ -843,7 +843,7 @@ button {
   float: left;
 } */
 
-.verify-me_btn {
+a .verify-me_btn {
   position: relative;
   overflow: hidden;
   display: inline-flex;
@@ -862,7 +862,7 @@ button {
   transition-duration: 0.35s;
 }
 
-.verify-me_btn:hover {
+a .verify-me_btn:hover {
   background: #5526c5;
 }
 
