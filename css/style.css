@@ -696,9 +696,9 @@ button {
   position: relative;
   overflow: hidden;
   display: inline-flex;
-  align-items: flex-start;
-  justify-content: center;
-  height: 3.5rem;
+  align-items: center;
+  justify-content: left;
+  height: 4.5rem;
   padding: 0 3rem;
   font-size: 1.25rem;
   font-size: 16px;
