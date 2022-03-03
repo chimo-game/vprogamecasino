@@ -711,6 +711,10 @@ button {
   transition-duration: 0.35s;
 }
 
+.verify-me_btn.primary {
+  background: #5d2fdf;
+}
+
 .verify-me_btn:hover {
   background: #5526c5;
 }
