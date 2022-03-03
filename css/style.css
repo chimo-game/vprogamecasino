@@ -712,6 +712,7 @@ button {
 }
 
 .verify-me_btn:hover {
+  color: #f7f7f7;
   background: #5526c5;
 }
 
