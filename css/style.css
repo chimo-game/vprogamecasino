@@ -711,7 +711,7 @@ button {
   transition-duration: 0.35s;
 }
 
-.verify-me_btn.primary {
+.verify-me_btn {
   background: #5d2fdf;
 }
 
