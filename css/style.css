@@ -593,8 +593,9 @@ button {
   justify-content: center;
   align-items: center;
   height: auto;
-  padding: 2rem 2.5rem;
+  padding: 0.2rem;
   border-radius: 10px;
+  transition: all 0.3s ease-in-out;
 }
 
 .box_section:hover {
@@ -603,14 +604,11 @@ button {
 
 .image_6 {
   width: 100%;
-  display: flex;
 }
 
 .image_freeplay {
   width: 40%;
   margin: 0 auto;
-  text-align: center;
-  display: flex;
 }
 
 .register_text {
