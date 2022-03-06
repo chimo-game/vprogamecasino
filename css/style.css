@@ -563,6 +563,10 @@ button {
   background-size: 100%;
 }
 
+.row {
+  padding: 3rem 2rem;
+}
+
 .play_taital {
   width: 100%;
   float: left;
