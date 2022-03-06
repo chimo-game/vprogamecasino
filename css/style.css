@@ -606,7 +606,7 @@ button {
   transition: 0.3s ease-out;
 }
 
-img.image_6:hover {
+img .image_6:hover {
   scale: 1.1;
 }
 
