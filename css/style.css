@@ -607,6 +607,13 @@ button {
   display: flex;
 }
 
+.image_freeplay {
+  width: 40%;
+  margin: 0 auto;
+  text-align: center;
+  display: flex;
+}
+
 .register_text {
   width: 100%;
   float: left;
