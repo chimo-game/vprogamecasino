@@ -589,10 +589,11 @@ button {
 
 .box_section {
   width: 100%;
-  float: left;
-  border: 2px solid #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   height: auto;
-  padding: 60px 50px;
+  padding: 2rem 2.5rem;
   border-radius: 10px;
 }
 
