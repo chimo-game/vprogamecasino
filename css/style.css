@@ -602,7 +602,7 @@ button {
   border: 2px solid #5d2fdf;
 }
 
-.image_6 {
+.box_section:hover .image_6 {
   width: 100%;
 }
 
