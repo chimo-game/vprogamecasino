@@ -565,6 +565,7 @@ button {
 
 .row {
   padding: 3rem 2rem;
+  cursor: pointer;
 }
 
 .play_taital {
