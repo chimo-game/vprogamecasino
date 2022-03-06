@@ -605,6 +605,9 @@ button {
 .box_section:hover .image_6 {
   width: 100%;
 }
+.image_6 {
+  transition: 0.3s ease-out;
+}
 
 .image_freeplay {
   width: 40%;
