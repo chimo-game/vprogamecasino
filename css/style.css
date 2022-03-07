@@ -606,7 +606,7 @@ button {
   justify-content: center;
   align-items: center;
   height: auto;
-  padding: 0.2rem;
+  padding: 2rem;
   border-radius: 10px;
   transition: 0.3s ease-out;
   background-color: #5d2fdf;
@@ -618,7 +618,6 @@ button {
 
 .image_6 {
   width: 100%;
-  position: absolute;
   transition: 0.3s ease-out;
 }
 
