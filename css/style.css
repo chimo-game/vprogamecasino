@@ -237,19 +237,6 @@ button {
   background-repeat: no-repeat;
 }
 
-.main_navbar {
-  position: relative;
-  display: -ms-flexbox;
-  display: flex;
-  -ms-flex-wrap: wrap;
-  flex-wrap: wrap;
-  -ms-flex-align: center;
-  align-items: center;
-  -ms-flex-pack: justify;
-  justify-content: center;
-  padding: 0.5rem 1rem;
-}
-
 .bg-dark {
   background-color: transparent !important;
 }
