@@ -583,7 +583,6 @@ button {
 button {
   display: grid;
   justify-content: center;
-  margin: 1rem auto;
 }
 
 .custom-btn {
