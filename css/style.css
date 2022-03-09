@@ -604,7 +604,6 @@ button {
 
 .custom-btn a {
   color: #fff;
-  margin: auto;
 }
 
 .playnow_bt {
@@ -627,9 +626,9 @@ button {
     inset 4px 4px 6px 0 rgba(0, 0, 0, 0.4);
 }
 
-.play_section,
-.layout_padding {
+.play_section {
   width: 100%;
+  float: left;
   background-color: #121212;
   height: auto;
   background-size: 100%;
