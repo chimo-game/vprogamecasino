@@ -11,9 +11,9 @@
 /*------------------------------------------------------------------- 767px x 599px ---------------------------------------------------------------------*/
 
 @media only screen and (min-width: 599px) and (max-width: 767px) {
-  .logo {
+  /* .logo {
     text-align: center;
-  }
+  } */
   .cart-content-right {
     padding-bottom: 5px;
   }
@@ -225,9 +225,6 @@
   .paddimg-left {
     padding-left: 15px;
   }
-  .logo {
-    width: 70%;
-  }
   .header_section {
     background-size: cover;
   }
@@ -362,9 +359,7 @@
     left: -234px;
     width: 55%;
   }
-  .logo {
-    width: 70%;
-  }
+
   .header_section {
     background-size: cover;
   }
@@ -537,9 +532,7 @@
     padding: 8px 12px;
     padding-bottom: 0px;
   }
-  .logo {
-    width: 70%;
-  }
+
   .header_section {
     background-size: cover;
   }
