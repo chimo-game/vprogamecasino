@@ -526,7 +526,7 @@ button {
   text-transform: uppercase;
 }
 
-/* .playnow_bt {
+.playnow_bt {
   width: 160px;
   margin: 0 auto;
   text-align: center;
@@ -553,7 +553,7 @@ button {
 .playnow_bt.active a {
   background-color: #5d2fdf;
   color: #fff;
-} */
+}
 
 .register-now_btn {
   background: #572dcc;
@@ -603,26 +603,6 @@ button {
 
 .custom-btn a {
   color: #fff;
-}
-
-.playnow_bt {
-  background: rgb(96, 9, 240);
-  background: linear-gradient(
-    0deg,
-    rgba(96, 9, 240, 1) 0%,
-    rgba(129, 5, 240, 1) 100%
-  );
-  border: none;
-}
-.playnow_bt:before {
-  height: 0%;
-  width: 2px;
-}
-.playnow_bt:hover {
-  box-shadow: 4px 4px 6px 0 rgba(255, 255, 255, 0.5),
-    -4px -4px 6px 0 rgba(116, 125, 136, 0.5),
-    inset -4px -4px 6px 0 rgba(255, 255, 255, 0.2),
-    inset 4px 4px 6px 0 rgba(0, 0, 0, 0.4);
 }
 
 .play_section {
