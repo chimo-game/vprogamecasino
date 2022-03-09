@@ -573,6 +573,10 @@ button {
   outline: none;
 }
 
+.custom-btn a {
+  color: #fff;
+}
+
 .playnow_bt {
   background: rgb(96, 9, 240);
   background: linear-gradient(
