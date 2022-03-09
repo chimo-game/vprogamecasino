@@ -626,7 +626,8 @@ button {
     inset 4px 4px 6px 0 rgba(0, 0, 0, 0.4);
 }
 
-.play_section {
+.play_section,
+.layout_padding {
   width: 100%;
   background-color: #121212;
   height: auto;
