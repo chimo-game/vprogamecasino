@@ -567,7 +567,7 @@ button {
 }
 
 button {
-  margin: 20px;
+  margin: 20px auto;
 }
 
 .custom-btn {
