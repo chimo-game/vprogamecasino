@@ -628,10 +628,7 @@ button {
 
 .play_section {
   width: 100%;
-  float: left;
-  background-color: #121212;
   height: auto;
-  background-size: 100%;
 }
 
 .row {
