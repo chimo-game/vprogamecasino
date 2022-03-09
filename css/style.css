@@ -224,7 +224,7 @@ button {
 
 .logo {
   color: #fff;
-  width: 78%;
+  /* width: 78%; */
   float: left;
 }
 
@@ -248,7 +248,7 @@ button {
 
 .navbar-dark .navbar-toggler-icon {
   background-image: url(../images/toogle-icon.png);
-  width: 50px;
+  width: 80px;
 }
 .navbar-dark .navbar-nav .nav-link {
   color: #fff;
