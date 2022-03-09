@@ -222,10 +222,8 @@ button {
   padding: 0px;
 }
 
-.logo {
-  color: #fff;
-  /* width: 78%; */
-  float: left;
+.logo img {
+  width: 3rem;
 }
 
 .header_section {
