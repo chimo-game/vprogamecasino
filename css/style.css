@@ -563,8 +563,7 @@ button {
 
 .register-now_btn:hover {
   background: #572dcc;
-background: linear-gradient(0deg, #6a40e0 0%, rgba(2,126,251,1) 100%);
-}
+  background: linear-gradient(0deg, #6a40e0 0%, rgba(2, 126, 251, 1) 100%);
 }
 
 button {
