@@ -526,7 +526,7 @@ button {
   text-transform: uppercase;
 }
 
-.playnow_bt {
+/* .playnow_bt {
   width: 160px;
   margin: 0 auto;
   text-align: center;
@@ -553,7 +553,7 @@ button {
 .playnow_bt.active a {
   background-color: #5d2fdf;
   color: #fff;
-}
+} */
 
 .play_section {
   width: 100%;
