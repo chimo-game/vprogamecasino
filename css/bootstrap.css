@@ -4182,27 +4182,27 @@ input[type="button"].btn-block {
 }
 
 .navbar {
-position: relative;
-  display: -ms-flexbox;
+  position: relative;
+  /* display: -ms-flexbox; */
   display: flex;
-  -ms-flex-wrap: wrap;
+  /* -ms-flex-wrap: wrap; */
   flex-wrap: wrap;
-  -ms-flex-align: center;
+  /* -ms-flex-align: center; */
   align-items: center;
-  -ms-flex-pack: justify;
+  /* -ms-flex-pack: justify; */
   justify-content: center;
   padding: 2rem 1rem;
 }
 
 .navbar > .container,
 .navbar > .container-fluid {
-  display: -ms-flexbox;
+  /* display: -ms-flexbox; */
   display: flex;
-  -ms-flex-wrap: wrap;
+  /* -ms-flex-wrap: wrap; */
   flex-wrap: wrap;
-  -ms-flex-align: center;
+  /* -ms-flex-align: center; */
   align-items: center;
-  -ms-flex-pack: justify;
+  /* -ms-flex-pack: justify; */
   justify-content: center;
 }
 
