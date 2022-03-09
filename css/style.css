@@ -567,7 +567,7 @@ button {
 }
 
 button {
-  margin: 20px auto;
+  margin: 3rem auto;
 }
 
 .custom-btn {
@@ -576,7 +576,7 @@ button {
   color: #fff;
   border-radius: 5px;
   padding: 10px 25px;
-  font-family: "Lato", sans-serif;
+  font-family: "Rajdhani", sans-serif;
   font-weight: 500;
   background: transparent;
   cursor: pointer;
