@@ -526,30 +526,6 @@ button {
   text-transform: uppercase;
 }
 
-.playnow_bt {
-  width: 160px;
-  margin: 0 auto;
-  text-align: center;
-}
-
-.playnow_bt a {
-  width: 100%;
-  float: left;
-  font-size: 16px;
-  color: #ffffff;
-  background-color: #121212;
-  text-align: center;
-  padding: 10px 0px;
-  border-radius: 30px;
-  margin-top: 30px;
-  border: 3px solid #5d2fdf;
-}
-
-.playnow_bt a:hover {
-  color: #ffffff;
-  background-color: #5d2fdf;
-}
-
 .playnow_bt.active a {
   background-color: #5d2fdf;
   color: #fff;
