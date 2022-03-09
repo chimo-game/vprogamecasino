@@ -556,6 +556,8 @@ button {
 } */
 
 .register-now_btn {
+  display: grid;
+  justify-content: center;
   background: #572dcc;
   background: linear-gradient(0deg, #6a40e0 0%, #572dcc 100%);
   border: none;
