@@ -555,6 +555,22 @@ button {
   color: #fff;
 } */
 
+.register-now_btn {
+  background: #572dcc;
+  background: linear-gradient(0deg, #6a40e0 0%, #572dcc 100%);
+  border: none;
+}
+
+.register-now_btn:hover {
+  background: #572dcc;
+background: linear-gradient(0deg, #6a40e0 0%, rgba(2,126,251,1) 100%);
+}
+}
+
+button {
+  margin: 20px;
+}
+
 .custom-btn {
   width: 130px;
   height: 40px;
