@@ -527,7 +527,9 @@ button {
 }
 
 .playnow_bt.active a {
-  background-color: #5d2fdf;
+  background: #5d2fdf;
+  background: linear-gradient(0deg, #6a40e0 0%, #572dcc 100%);
+  border: none;
   color: #fff;
 }
 
