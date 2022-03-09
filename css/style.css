@@ -581,7 +581,8 @@ button {
 }
 
 button {
-  display: block;
+  display: grid;
+  justify-content: center;
   margin: 1rem auto;
 }
 
