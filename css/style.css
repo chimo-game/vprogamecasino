@@ -547,7 +547,7 @@ button {
 }
 
 .custom-btn {
-  width: 140px;
+  width: 155px;
   height: 40px;
   color: #fff;
   border-radius: 5px;
@@ -688,7 +688,6 @@ button {
   border: 2px solid #acacac;
   border-radius: 15px;
   padding: 20px;
-  
 }
 
 .basic_text {
