@@ -32,7 +32,7 @@
 
 * {
   box-sizing: border-box !important;
-  transition: ease all 0.5s;
+  transition: ease all 0.2s;
 }
 
 html {
