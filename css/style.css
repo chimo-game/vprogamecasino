@@ -160,13 +160,11 @@ img {
   height: auto;
 }
 
-.image_6:hover:hover {
+img:hover:hover {
   transform: scale(1.01);
   transition: transform 0.3s;
   /* down here you can change the color of the pfp shade */
   box-shadow: 0px 0px 60px #572dcc;
-  height: 120px;
-  width: 120px;
   filter: saturate(150%);
 }
 
