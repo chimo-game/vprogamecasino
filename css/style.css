@@ -65,7 +65,8 @@ h3,
 h4,
 h5,
 h6 {
-  letter-spacing: 0;
+  letter-spacing: 1px;
+
   font-weight: normal;
   position: relative;
   padding: 0 0 10px 0;
