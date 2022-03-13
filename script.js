@@ -9,7 +9,7 @@ let interval = setInterval(() => {
   }
 }, 200);
 
-setTimeout(() => clearInterval(interval), 12000, 2000, -200);
+setTimeout(() => clearInterval(interval), 12000, -2000, -200, 30000);
 
 function createConfetti() {
   let div = document.createElement('div');
@@ -19,7 +19,7 @@ function createConfetti() {
       style: '--color: ' + colors[Math.floor(Math.random() * colors.length)]
     },
     x: between(0, window.innerWidth),
-    y: -window.innerHeight / 12,
+    y: -window.innerHeight / 10,
     z: between(-80, 80)
   });
   current++;
@@ -29,10 +29,10 @@ function createConfetti() {
 
 function animate(element) {
   gsap.to(element, {
-    y: window.innerHeight + 100,
+    y: window.innerHeight + 510,
     ease: 'power1.out',
-    delay: between(0, .45),
-    duration: between(2, 5),
+    delay: between(0, .10),
+    duration: between(2, 10),
     onComplete() {
       if (element instanceof Element || element instanceof HTMLDocument) {
         current--;
