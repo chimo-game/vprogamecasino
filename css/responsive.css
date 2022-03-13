@@ -183,7 +183,7 @@
     display: none;
   }
   .main {
-    width: 15%;
+    /* width: 15%; */
   }
   .info_icon {
     min-width: 10%;
@@ -353,7 +353,7 @@
     padding: 126px 40px;
   }
   .main {
-    width: 20%;
+    /* width: 20%; */
   }
   .contact .titlepage h2::after {
     left: -234px;
