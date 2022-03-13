@@ -1,3 +1,4 @@
 {
-  "cSpell.ignoreWords": ["CPABUILDSETTINGS"]
+  "cSpell.ignoreWords": ["CPABUILDSETTINGS"],
+  "liveServer.settings.port": 5501
 }
