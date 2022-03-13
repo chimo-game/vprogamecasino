@@ -43,6 +43,7 @@ body {
   color: #666666;
   font-size: 14px;
   font-family: Roboto;
+  text-align: center;
   line-height: 1.80857;
   font-weight: normal;
   overflow-x: hidden;
@@ -546,7 +547,7 @@ button {
   position: fixed;
   top: 0;
   left: 0;
-  border: 3px solid dodgerblue;
+  border: 3px solid rgba(2, 126, 251, 1);
   border-radius: 50%;
 }
 
@@ -556,7 +557,7 @@ button {
   position: fixed;
   top: 0;
   left: 0;
-  background-color: dodgerblue;
+  background-color: rgba(2, 126, 251, 1);
   border-radius: 50%;
 }
 
