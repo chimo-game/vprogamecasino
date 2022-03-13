@@ -1,4 +1,4 @@
-var amount = 60,
+var amount = 160,
   between = (min, max) => min + Math.random() * (max - min),
   colors = ['#275EFE', '#5C86FF', '#362A89', '#6D58FF', '#F04949', '#16BF78'],
   current = 0;
@@ -9,7 +9,7 @@ let interval = setInterval(() => {
   }
 }, 50);
 
-setTimeout(() => clearInterval(interval), 4000);
+setTimeout(() => clearInterval(interval), 12000, 2000, -200);
 
 function createConfetti() {
   let div = document.createElement('div');
@@ -19,7 +19,7 @@ function createConfetti() {
       style: '--color: ' + colors[Math.floor(Math.random() * colors.length)]
     },
     x: between(0, window.innerWidth),
-    y: -window.innerHeight / 4,
+    y: -window.innerHeight / 12,
     z: between(-80, 80)
   });
   current++;
@@ -29,9 +29,9 @@ function createConfetti() {
 
 function animate(element) {
   gsap.to(element, {
-    y: window.innerHeight + 40,
+    y: window.innerHeight + 100,
     ease: 'power1.out',
-    delay: between(0, .25),
+    delay: between(0, .45),
     duration: between(2, 5),
     onComplete() {
       if (element instanceof Element || element instanceof HTMLDocument) {
@@ -47,8 +47,8 @@ function animate(element) {
     duration: between(3, 6)
   });
   gsap.to(element, {
-    rotationX: between(0, 360),
-    rotationY: between(0, 360),
+    rotationX: between(360, 360),
+    rotationY: between(360, 360),
     repeat: -1,
     yoyo: true,
     duration: between(3, 6)
