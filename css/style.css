@@ -160,7 +160,7 @@ img {
   height: auto;
 }
 
-img:hover {
+.image_6:hover:hover {
   transform: scale(1.01);
   transition: transform 0.3s;
   /* down here you can change the color of the pfp shade */
