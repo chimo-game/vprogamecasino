@@ -1,13 +1,13 @@
 var amount = 160,
   between = (min, max) => min + Math.random() * (max - min),
-  colors = ['#275EFE', '#5C86FF', '#362A89', '#6D58FF', '#F04949', '#16BF78'],
+  colors = ['#275EFE', '#5C86FF', '#6D58FF', '#F04949', '#16BF78', 'yellow', 'gold'],
   current = 0;
 
 let interval = setInterval(() => {
   if (current < amount) {
     animate(createConfetti());
   }
-}, 50);
+}, 200);
 
 setTimeout(() => clearInterval(interval), 12000, 2000, -200);
 
