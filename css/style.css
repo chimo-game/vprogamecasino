@@ -34,6 +34,7 @@
   margin: 0;
   box-sizing: border-box !important;
   transition: ease all 0.2s;
+  font-family: montserrat, sans-serif;
 }
 
 html {
@@ -43,7 +44,7 @@ html {
 body {
   color: #666666;
   font-size: 14px;
-  font-family: Roboto;
+  font-family: montserrat, sans-serif;
   text-align: center;
   line-height: 1.80857;
   font-weight: normal;
