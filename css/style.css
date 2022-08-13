@@ -19,7 +19,7 @@
 
 * {
   margin: 0;
-  box-sizing: border-box !important;
+  box-sizing: border-box;
   transition: ease all 0.2s;
   font-family: montserrat, sans-serif;
 }
