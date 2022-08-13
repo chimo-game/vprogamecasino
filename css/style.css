@@ -514,6 +514,9 @@ button {
   color: #fff;
 }
 
+.game_title {
+}
+
 .playnow_bt {
   transition: all 0.3s ease;
   background: #5d2fdf;
@@ -549,26 +552,6 @@ button {
   background: #572dcc;
   background: linear-gradient(0deg, #6a40e0 0%, rgba(2, 126, 251, 1) 100%);
 }
-
-/* .ball {
-  width: 50px;
-  height: 50px;
-  position: fixed;
-  top: 0;
-  left: 0;
-  border: 3px solid rgba(2, 126, 251, 1);
-  border-radius: 50%;
-}
-
-.follow-ball {
-  width: 25px;
-  height: 25px;
-  position: fixed;
-  top: 0;
-  left: 0;
-  background-color: rgba(2, 126, 251, 1);
-  border-radius: 50%;
-} */
 
 button {
   display: grid;
