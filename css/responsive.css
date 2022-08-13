@@ -258,9 +258,9 @@
   .playnow_bt {
     width: 10rem;
   }
-  .playnow_bt a {
+  /* .playnow_bt a {
     margin-bottom: 30px;
-  }
+  } */
   .play_taital {
     font-size: 30px;
   }
