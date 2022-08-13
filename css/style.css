@@ -227,7 +227,7 @@ button {
 .header_section {
   width: 100%;
   float: left;
-  background-image: url(../images/banner-bg.png);
+  background-image: url(../images/game/assets/asset\48.jpeg);
   height: auto;
   background-size: 100%;
   background-repeat: no-repeat;
@@ -384,7 +384,7 @@ button {
 .image_2 {
   width: 100%;
   float: left;
-  background-image: url(../images/game/assets/asset\ 48.jpeg);
+  background-image: url(../images/game/assets/asset\48.jpeg);
   height: auto;
   background-size: cover;
   padding-bottom: 40px;
@@ -427,7 +427,7 @@ button {
 .image_3 {
   width: 100%;
   float: left;
-  background-image: url(../images/img-3.png);
+  background-image: url(../images/game/assets/asset\48.jpeg);
   height: auto;
   background-size: cover;
   padding-bottom: 40px;
@@ -451,7 +451,7 @@ button {
 .image_4 {
   width: 100%;
   float: left;
-  background-image: url(../images/img-4.png);
+  background-image: url(../images/game/assets/asset\48.jpeg);
   height: auto;
   background-size: 100%;
   padding-bottom: 40px;
@@ -475,7 +475,7 @@ button {
 .image_5 {
   width: 100%;
   float: left;
-  background-image: url(../images/game/assets/asset\ 46.jpeg);
+  background-image: url(../images/game/assets/asset\48.jpeg);
   height: auto;
   background-size: 100%;
   padding-bottom: 40px;
