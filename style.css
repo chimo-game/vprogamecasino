@@ -12,6 +12,6 @@
 
 body {
   min-height: 100vh;
-  font-family: "Inter", "Inter UI", Arial;
+  font-family: "Roboto", sans-serif;
   perspective: 600px;
 }
