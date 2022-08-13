@@ -384,7 +384,7 @@ button {
 .image_2 {
   width: 100%;
   float: left;
-  background-image: url(../images/img-2.png);
+  background-image: url(../images/game/assets/asset\ 48.jpeg);
   height: auto;
   background-size: cover;
   padding-bottom: 40px;
@@ -456,9 +456,9 @@ button {
   background-size: 100%;
   padding-bottom: 40px;
   border-radius: 30px;
+
   background-repeat: no-repeat;
 }
-
 .number_text_2 {
   width: 50px;
   margin: 0 auto;
@@ -472,7 +472,6 @@ button {
   margin-top: 170px;
   text-transform: uppercase;
 }
-
 .image_5 {
   width: 100%;
   float: left;
@@ -483,7 +482,6 @@ button {
   border-radius: 30px;
   background-repeat: no-repeat;
 }
-
 .number_text_3 {
   width: 50px;
   margin: 0 auto;
@@ -497,61 +495,53 @@ button {
   margin-top: 125px;
   text-transform: uppercase;
 }
-
 .playnow_bt.active a {
   color: #fff;
 }
-/* icons */
+
+
+.number_te
 .material-symbols-outlined {
   font-variation-settings: "FILL" 1, "wght" 400, "GRAD" 0, "opsz" 2;
 }
-
 .game_title {
   margin-top: 10px;
 }
-
 .playnow_bt {
   transition: all 0.3s ease;
   background: #5d2fdf;
   background: linear-gradient(0deg, #6a40e0 0%, #572dcc 100%);
   border: none;
 }
-
 .playnow_bt:hover {
   background: #572dcc;
   background: linear-gradient(0deg, #6a40e0 0%, rgba(2, 126, 251, 1) 100%);
 }
-
 .register-now_btn {
   transition: all 0.3s ease;
   background: #572dcc;
   background: linear-gradient(0deg, #6a40e0 0%, #572dcc 100%);
   border: none;
 }
-
 .register-now_btn:hover {
   background: #572dcc;
   background: linear-gradient(0deg, #6a40e0 0%, rgba(2, 126, 251, 1) 100%);
 }
-
 .verify-me_btn {
   background: #572dcc;
   background: linear-gradient(0deg, #6a40e0 0%, #572dcc 100%);
   border: none;
 }
-
 .verify-me_btn:hover {
   color: #fff;
   background: #572dcc;
   background: linear-gradient(0deg, #6a40e0 0%, rgba(2, 126, 251, 1) 100%);
 }
-
 button {
   display: grid;
   justify-content: center;
   margin: 1rem auto;
 }
-
 .custom-btn {
   width: 155px;
   height: 40px;
@@ -568,11 +558,9 @@ button {
     7px 7px 20px 0px rgba(0, 0, 0, 0.1), 4px 4px 5px 0px rgba(0, 0, 0, 0.1);
   outline: none;
 }
-
 .custom-btn a {
   color: #fff;
 }
-
 .play_section {
   width: 100%;
   float: left;
@@ -580,12 +568,11 @@ button {
   height: auto;
   background-size: 100%;
 }
-
 .row {
-  /* padding: 2rem 0.5rem; */
+  verify-me_btn:hover {
+  col
   cursor: pointer;
 }
-
 .play_taital {
   width: 100%;
   float: left;
@@ -595,7 +582,6 @@ button {
   text-align: center;
   text-transform: uppercase;
 }
-
 .play_text {
   width: 100%;
   float: left;
@@ -604,7 +590,6 @@ button {
   margin: 0px;
   text-align: center;
 }
-
 .box_section {
   position: relative;
   width: 100%;
@@ -616,24 +601,25 @@ button {
   border-radius: 10px;
   transition: 0.3s ease-out;
 }
-
 .box_section1 {
   position: relative;
   width: 100%;
   display: flex;
   justify-content: center;
+
   align-items: center;
   height: auto;
   padding: 0.4rem;
   border-radius: 10px;
   transition: 0.2s ease-out;
-  /* background-color: #5d2fdf; */
-}
+  
+.play_taital {
+  width: 100%;
 
+}
 .box_section:hover {
   border: 2px solid #5d2fdf;
 }
-
 .image_6 {
   width: 100%;
   transition: 0.2s ease-out;
@@ -642,7 +628,6 @@ button {
 .image_6:hover {
   scale: 1.1;
 }
-
 .image_freeplay {
   width: 20%;
   margin: 0 auto;
@@ -656,17 +641,14 @@ button {
   text-align: center;
   padding-top: 20px;
 }
-
 .casino_section {
   width: 100%;
   float: left;
 }
-
 .casino_section_2 {
   width: 100%;
   float: left;
 }
-
 .casino_taital {
   width: 100%;
   float: left;
@@ -687,7 +669,6 @@ button {
   text-align: center;
   padding-top: 90px;
 }
-
 .box_main {
   width: 100%;
   float: left;
@@ -695,7 +676,6 @@ button {
   border-radius: 15px;
   padding: 20px;
 }
-
 .basic_text {
   width: 100%;
   float: left;
@@ -713,16 +693,13 @@ button {
   font-weight: bold;
   text-align: center;
 }
-
 .font_size_20 {
   font-size: 30px;
   color: #5d2fdf;
 }
-
 .font_size_40 {
   font-size: 70px;
 }
-
 .lorem_text {
   width: 50%;
   margin: 0 auto;
@@ -731,13 +708,11 @@ button {
   text-align: center;
   font-weight: 400;
 }
-
 .buynow_bt {
   width: 160px;
   margin: 0 auto;
   text-align: center;
 }
-
 .buynow_bt a {
   width: 100%;
   float: left;
@@ -750,7 +725,6 @@ button {
   margin-top: 30px;
   border: 3px solid #5d2fdf;
 }
-
 .buynow_bt a:hover {
   color: #ffffff;
   background-color: #000;
@@ -769,7 +743,6 @@ button {
   display: inline-block;
   margin-top: 50px;
 }
-
 .jone_text {
   width: 100%;
   float: left;
@@ -779,7 +752,6 @@ button {
   text-align: center;
   padding-top: 20px;
 }
-
 .ipsum_text {
   width: 100%;
   margin: 0 auto;
@@ -789,7 +761,6 @@ button {
   padding-left: 0px;
   padding-top: 10px;
 }
-
 .padding_right_20 {
   padding-right: 20px;
 }
@@ -797,7 +768,6 @@ button {
 .padding_left_20 {
   padding-left: 20px;
 }
-
 #main_slider .carousel-control-prev:hover,
 #main_slider .carousel-control-next:hover,
 #main_slider .carousel-control-prev:focus,
@@ -805,13 +775,11 @@ button {
   background: #5d2fdf;
   color: #fff;
 }
-
 #main_slider a.carousel-control-next {
   position: absolute;
   right: 130px;
   top: 40%;
 }
-
 #main_slider .carousel-control-prev,
 #main_slider .carousel-control-next {
   width: 65px;
@@ -829,7 +797,6 @@ button {
   top: 40%;
   background-color: #5d2fdf;
 }
-
 .contact_section {
   width: 100%;
   float: left;
@@ -837,7 +804,6 @@ button {
   display: contents;
   z-index: 1;
 }
-
 .contact_section_2 {
   width: 100%;
   margin: 0 auto;
@@ -850,19 +816,16 @@ button {
   position: relative;
   z-index: 2;
 }
-
 .map_main {
   width: 100%;
   float: left;
   padding-top: 20px;
 }
-
 .email_text {
   width: 100%;
   float: left;
   padding: 20px 20px 20px 20px;
 }
-
 .email-bt {
   width: 100%;
   float: left;
@@ -883,7 +846,6 @@ button {
   border: 1px solid #909090;
   height: 120px;
 }
-
 .custom-select {
   display: inline-block;
   width: 100%;
@@ -901,7 +863,6 @@ button {
   -moz-appearance: none;
   appearance: none;
 }
-
 select.custom-select::placeholder {
   color: #5d5d5f !important;
 }
@@ -920,12 +881,10 @@ select.custom-select::placeholder {
   width: 70%;
   margin: 0 auto;
 }
-
 .input-group > .custom-select:not(:last-child),
 .input-group > .form-control:not(:last-child) {
   border-radius: 0px;
 }
-
 .form-control {
   display: block;
   width: 100%;
@@ -940,7 +899,6 @@ select.custom-select::placeholder {
   border-radius: 0px;
   transition: border-color 0s ease-in-out, box-shadow 0s ease-in-out !important;
 }
-
 .input-group > .input-group-append > .btn,
 .input-group > .input-group-append > .input-group-text,
 .input-group > .input-group-prepend:first-child > .btn:not(:first-child),
@@ -951,7 +909,6 @@ select.custom-select::placeholder {
 .input-group > .input-group-prepend:not(:first-child) > .input-group-text {
   border-radius: 0px;
 }
-
 .input-group > .input-group-append > .btn,
 .input-group > .input-group-append > .input-group-text,
 .input-group > .input-group-prepend:first-child > .btn:not(:first-child),
@@ -977,7 +934,6 @@ select.custom-select::placeholder {
   border: 0px;
   text-transform: uppercase;
 }
-
 .social_icon {
   width: 100%;
   margin: 0 auto;
@@ -989,7 +945,6 @@ select.custom-select::placeholder {
   padding: 0px;
   display: inline-block;
 }
-
 .social_icon li {
   float: left;
   padding: 20px 3px 0px 3px;
@@ -1000,7 +955,6 @@ select.custom-select::placeholder {
   margin: 0 auto;
   text-align: center;
 }
-
 .location_section ul {
   margin: 0px;
   padding: 0px;
@@ -1013,22 +967,18 @@ select.custom-select::placeholder {
   color: #dbd8d8;
   padding: 25px 87px 0px 87px;
 }
-
 .location_section li a {
   color: #dbd8d8;
 }
-
 .padding_left_15 {
   padding-left: 15px;
 }
-
 .copyright_section {
   width: 100%;
   float: left;
   margin-top: 55px;
   text-align: center;
 }
-
 .copyright_text {
   width: 100%;
   float: left;
@@ -1038,15 +988,12 @@ select.custom-select::placeholder {
   margin-left: 0px;
   padding: 40px 0px 20px 0px;
 }
-
 .copyright_text a {
   color: #878686;
 }
-
 .copyright_text a:hover {
   color: #572dcc;
 }
-
 .copyright_text::after {
   content: "";
   background-color: #f9f9fb;
@@ -1062,7 +1009,6 @@ select.custom-select::placeholder {
   left: 0;
   border-radius: 100px;
 }
-
 .footer_main {
   width: 100%;
   float: left;
@@ -1077,7 +1023,6 @@ select.custom-select::placeholder {
   float: left;
   display: initial !important;
 }
-
 .client_main {
   padding-bottom: 0px;
 }
