@@ -978,6 +978,7 @@ select.custom-select::placeholder {
   float: left;
   margin-top: 55px;
   text-align: center;
+  padding: 1rem;
 }
 .copyright_text {
   width: 100%;
