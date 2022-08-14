@@ -974,11 +974,11 @@ select.custom-select::placeholder {
   padding-left: 15px;
 }
 div.copyright_section {
-  width: 100%;
-  float: left;
-  margin-top: 55px;
-  text-align: center;
-  padding: 1rem;
+  margin: 0rem;
+    padding: 1rem;
+    position: relative;
+    background: #5d2fdf;
+    color: #fff;
 }
 .copyright_text {
   width: 100%;
