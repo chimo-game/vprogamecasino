@@ -391,6 +391,7 @@
     width: 150px;
   }
   .playnow_bt {
+    display: inline-block;
     width: 10rem;
   }
   .playnow_bt a {
