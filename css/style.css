@@ -227,7 +227,7 @@ button {
 .header_section {
   width: 100%;
   float: left;
-  background-image: url(../images/game/assets/asset48.jpeg);
+  /* background-image: url(../images/game/assets/asset33.jpeg); */
   height: auto;
   background-size: 100%;
   background-repeat: no-repeat;
@@ -358,7 +358,7 @@ button {
   width: 100%;
   float: left;
   font-size: 40px;
-  color: #1d1c1c;
+  color: #5d2fdf;
   font-weight: bold;
   padding-bottom: 20px;
   text-align: center;
@@ -384,7 +384,7 @@ button {
 .image_2 {
   width: 100%;
   float: left;
-  background-image: url(../images/game/assets/asset48.jpeg);
+  background-image: url(../images/game/assets/asset32.jpeg);
   height: auto;
   background-size: cover;
   padding-bottom: 40px;
@@ -427,7 +427,7 @@ button {
 .image_3 {
   width: 100%;
   float: left;
-  background-image: url(../images/game/assets/asset48.jpeg);
+  background-image: url(../images/game/assets/asset35.jpeg);
   height: auto;
   background-size: cover;
   padding-bottom: 40px;
@@ -451,7 +451,7 @@ button {
 .image_4 {
   width: 100%;
   float: left;
-  background-image: url(../images/game/assets/asset48.jpeg);
+  background-image: url(../images/game/assets/asset36.jpeg);
   height: auto;
   background-size: 100%;
   padding-bottom: 40px;
@@ -475,7 +475,37 @@ button {
 .image_5 {
   width: 100%;
   float: left;
-  background-image: url(../images/game/assets/asset48.jpeg);
+  background-image: url(../images/game/assets/asset37.jpeg);
+  height: auto;
+  background-size: 100%;
+  padding-bottom: 40px;
+  border-radius: 30px;
+  background-repeat: no-repeat;
+}
+.image_6 {
+  width: 100%;
+  float: left;
+  background-image: url(../images/game/assets/asset38.jpeg);
+  height: auto;
+  background-size: 100%;
+  padding-bottom: 40px;
+  border-radius: 30px;
+  background-repeat: no-repeat;
+}
+.image_7 {
+  width: 100%;
+  float: left;
+  background-image: url(../images/game/assets/asset39.jpeg);
+  height: auto;
+  background-size: 100%;
+  padding-bottom: 40px;
+  border-radius: 30px;
+  background-repeat: no-repeat;
+}
+.image_8 {
+  width: 100%;
+  float: left;
+  background-image: url(../images/game/assets/asset40.jpeg);
   height: auto;
   background-size: 100%;
   padding-bottom: 40px;
@@ -612,7 +642,7 @@ button {
   padding: 0.4rem;
   border-radius: 10px;
   transition: 0.2s ease-out;
-  
+}
 .play_taital {
   width: 100%;
 
