@@ -5,6 +5,7 @@
   align-items: center;
   justify-content: space-between;
   margin: 0 auto;
+  padding: 0 10px 0 10px;
 }
 
 #button__block a {
@@ -43,4 +44,12 @@
 }
 #button__block a:nth-child(2) {
   background-color: #19cf84;
+}
+
+.copyright_section {
+  margin: 0rem;
+  padding: 1rem;
+  position: relative;
+  background: #5d2fdf;
+  color: #fff;
 }
